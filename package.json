@@ -1,0 +1,20 @@
+{
+  "name": "erai-agent",
+  "version": "1.0.0",
+  "description": "A coding agent powered by Gemini API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "gemini",
+    "ai",
+    "coding",
+    "agent"
+  ],
+  "author": "",
+  "license": "MIT"
+}
